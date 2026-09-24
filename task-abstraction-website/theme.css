@@ -1,0 +1,54 @@
+/* Clemson Orange #F56600 and Regalia #522D80, with light backgrounds.
+   https://www.clemson.edu/brand/web/color.html */
+:root{--paper:#fffaf5;--ink:#30213f;--muted:#716577;--line:#eadbcc;--green:#522d80;--orange:#aa4100;--clemson-orange:#f56600;--purple:#522d80}
+body .site-header{background:#fff2e6;border-top:5px solid var(--clemson-orange);border-bottom-color:#edcfb5}
+body .brand,body h1,body h2,body h3{color:var(--purple)}
+body .sidebar{background:#fff7ef}
+body .nav-link:hover{background:#fff0df}
+body .nav-link[aria-current=page]{background:#ede4f6;color:var(--purple)}
+body .nav-link.locked{opacity:.5;cursor:not-allowed}
+body .primary{background:var(--purple);color:#fff;border:1px solid var(--purple)}
+body .primary:hover{background:#402060}
+body .secondary{border-color:#d3bddf;color:var(--purple);background:#fff}
+body .secondary:hover{background:#f2eaf8}
+body .button[aria-disabled=true],body button:disabled{background:#f1e8e0;color:#877986;border-color:#e1d4c9;cursor:not-allowed}
+body a[aria-disabled=true]{pointer-events:none}
+body .movie-details{background:#fff0e1;border-color:#efceb0}
+body .feedback{background:#f1e9fa;border-left-color:var(--purple)}
+body .search-choice{border-color:#d4c0e2}
+body .search-choice:has(input:checked){background:#ede2f7;border-color:var(--purple)}
+body .field input,body .field select,body .field textarea{border-color:#cab7d7}
+body input:disabled,body textarea:disabled,body select:disabled{color:#605768;background:#f7f1ed;opacity:1}
+body .scatter-svg .domain{stroke:#a894b6}
+body .scatter-svg .tick line{stroke:#eee4de}
+body .scatter-svg .point:hover,body .scatter-svg .point:focus,body .scatter-svg .point.selected{stroke:#351757;stroke-width:3}
+body .decade-svg .point.selected{fill:#f56600}
+body .lookup-grid line{stroke:#ead8c8}
+body .lookup-cell{fill:#ecdef7;stroke:#9a79b7}
+body .lookup-tooltip{background:var(--purple)}
+body .error-message{color:#9f2f16}
+body .plot-caption,body .hint,body .data-note{color:#706076}
+body .page-footer{border-color:#eadbcc}
+body .reset-link{border-color:#d3bddf;color:var(--purple);background:white}
+body .response-panel{border-color:#eadbcc}
+.score-summary{display:flex;gap:35px;align-items:center;background:#fff0e2;border:1px solid #f1cfb1;border-radius:12px;padding:24px;margin:28px 0 14px}
+.score-ring{flex:0 0 190px;width:190px;max-width:100%}
+.score-number{font-size:34px;font-weight:700;fill:#522d80;font-family:var(--font)}
+.score-percent{font-size:13px;fill:#695574;font-family:var(--font)}
+.score-summary h2{font-size:24px;margin-bottom:12px}
+.score-summary p{font-size:14px;margin:10px 0}
+.review-card{border:1px solid #e1cfea;border-radius:8px;background:#fff;padding:24px;margin:22px 0}
+.review-heading{display:flex;gap:18px;justify-content:space-between;align-items:center;margin-bottom:14px}
+.review-heading h2{font-size:20px}
+.result-badge{border-radius:20px;padding:5px 12px;font-size:12px;white-space:nowrap}
+.result-badge.correct{background:#ece0f7;color:#522d80}
+.result-badge.review{background:#ffe8d5;color:#943500}
+.review-answer{font-weight:600;font-size:14px}
+.review-facts{display:grid;grid-template-columns:75px 1fr;gap:8px;font-size:13px;background:#fff8f1;padding:14px;border-radius:5px}
+.review-facts dt{font-weight:600}.review-facts dd{margin:0}
+.review-card>p{font-size:14px}.review-card h3{font-size:14px;margin:16px 0 6px}
+.student-response{white-space:pre-wrap;overflow-wrap:anywhere;color:#65546e}
+.reflection-prompts{padding:18px 0 30px}.reflection-prompts h2{font-size:22px}
+.reflection-prompts li{margin-top:10px;font-size:14px}
+.storage-error{padding:40px;max-width:760px}
+@media(max-width:580px){.score-summary{flex-direction:column;gap:12px;align-items:flex-start;padding:20px}.score-ring{flex-basis:auto;width:160px}.review-heading{align-items:flex-start;flex-direction:column;gap:10px}.review-card{padding:18px}.review-facts{grid-template-columns:1fr;gap:5px}}

@@ -1,0 +1,3279 @@
+[
+  {
+    "id": "movie_001",
+    "title": "3 Men and a Baby",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 110,
+    "budget_usd": 15000000,
+    "revenue_usd": 167780960,
+    "audience_rating": 5.7,
+    "sort_title": "3 Men and a Baby",
+    "title_initial": "3",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_002",
+    "title": "A Bridge Too Far",
+    "release_year": 1977,
+    "decade": "1970s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 105,
+    "budget_usd": 26000000,
+    "revenue_usd": 50800000,
+    "audience_rating": 7.3,
+    "sort_title": "Bridge Too Far",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_003",
+    "title": "A View to a Kill",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 116,
+    "budget_usd": 30000000,
+    "revenue_usd": 152627960,
+    "audience_rating": 6.1,
+    "sort_title": "View to a Kill",
+    "title_initial": "V",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_004",
+    "title": "Airplane!",
+    "release_year": 1980,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 88,
+    "budget_usd": 3500000,
+    "revenue_usd": 83453539,
+    "audience_rating": 7.8,
+    "sort_title": "Airplane!",
+    "title_initial": "A",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_005",
+    "title": "Alien",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": "Science Fiction",
+    "runtime_min": 87,
+    "budget_usd": 9000000,
+    "revenue_usd": 203630630,
+    "audience_rating": 8.5,
+    "sort_title": "Alien",
+    "title_initial": "A",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_006",
+    "title": "American Beauty",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 118,
+    "budget_usd": 15000000,
+    "revenue_usd": 356258047,
+    "audience_rating": 8.6,
+    "sort_title": "American Beauty",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_007",
+    "title": "Anaconda",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Horror",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 89,
+    "budget_usd": 45000000,
+    "revenue_usd": 136998907,
+    "audience_rating": 4.2,
+    "sort_title": "Anaconda",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_008",
+    "title": "Apollo 13",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 128,
+    "budget_usd": 65000000,
+    "revenue_usd": 334100000,
+    "audience_rating": 7.5,
+    "sort_title": "Apollo 13",
+    "title_initial": "A",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_009",
+    "title": "Are We There Yet?",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 94,
+    "budget_usd": 20000000,
+    "revenue_usd": 97918663,
+    "audience_rating": 4.2,
+    "sort_title": "Are We There Yet?",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_010",
+    "title": "Artificial Intelligence: AI",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Science Fiction",
+    "runtime_min": 146,
+    "budget_usd": 90000000,
+    "revenue_usd": 235900000,
+    "audience_rating": 6.9,
+    "sort_title": "Artificial Intelligence: AI",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_011",
+    "title": "As Good as it Gets",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 138,
+    "budget_usd": 50000000,
+    "revenue_usd": 314111923,
+    "audience_rating": 7.8,
+    "sort_title": "As Good as it Gets",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_012",
+    "title": "Away We Go",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 98,
+    "budget_usd": 21000000,
+    "revenue_usd": 10108016,
+    "audience_rating": 7.3,
+    "sort_title": "Away We Go",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_013",
+    "title": "Babe",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 148,
+    "budget_usd": 30000000,
+    "revenue_usd": 246100000,
+    "audience_rating": 7.3,
+    "sort_title": "Babe",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_014",
+    "title": "Babe: Pig in the City",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 75,
+    "budget_usd": 80000000,
+    "revenue_usd": 69131860,
+    "audience_rating": 6.1,
+    "sort_title": "Babe: Pig in the City",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_015",
+    "title": "Back to the Future",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Adventure",
+    "creative_type": "Science Fiction",
+    "runtime_min": 119,
+    "budget_usd": 19000000,
+    "revenue_usd": 381109762,
+    "audience_rating": 8.4,
+    "sort_title": "Back to the Future",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_016",
+    "title": "Barry Lyndon",
+    "release_year": 1974,
+    "decade": "1970s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 154,
+    "budget_usd": 11000000,
+    "revenue_usd": 20000000,
+    "audience_rating": 8.1,
+    "sort_title": "Barry Lyndon",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_017",
+    "title": "Bats",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Horror",
+    "creative_type": "Science Fiction",
+    "runtime_min": 98,
+    "budget_usd": 6500000,
+    "revenue_usd": 10155691,
+    "audience_rating": 3.3,
+    "sort_title": "Bats",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_018",
+    "title": "Becoming Jane",
+    "release_year": 2007,
+    "decade": "2000s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Dramatization",
+    "runtime_min": 120,
+    "budget_usd": 16500000,
+    "revenue_usd": 37304637,
+    "audience_rating": 7,
+    "sort_title": "Becoming Jane",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_019",
+    "title": "Beverly Hills Cop",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 126,
+    "budget_usd": 15000000,
+    "revenue_usd": 316300000,
+    "audience_rating": 7.3,
+    "sort_title": "Beverly Hills Cop",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_020",
+    "title": "Beverly Hills Cop II",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 118,
+    "budget_usd": 20000000,
+    "revenue_usd": 276665036,
+    "audience_rating": 6.1,
+    "sort_title": "Beverly Hills Cop II",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_021",
+    "title": "Beyond the Valley of the Dolls",
+    "release_year": 1970,
+    "decade": "1970s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 101,
+    "budget_usd": 1000000,
+    "revenue_usd": 9000000,
+    "audience_rating": 5.7,
+    "sort_title": "Beyond the Valley of the Dolls",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_022",
+    "title": "Big",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Fantasy",
+    "runtime_min": 98,
+    "budget_usd": 18000000,
+    "revenue_usd": 151668774,
+    "audience_rating": 7.2,
+    "sort_title": "Big",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_023",
+    "title": "Black Rain",
+    "release_year": 1989,
+    "decade": "1980s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 130,
+    "budget_usd": 30000000,
+    "revenue_usd": 45892212,
+    "audience_rating": 4.1,
+    "sort_title": "Black Rain",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_024",
+    "title": "Blood and Wine",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 107,
+    "budget_usd": 26000000,
+    "revenue_usd": 1083350,
+    "audience_rating": 6.1,
+    "sort_title": "Blood and Wine",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_025",
+    "title": "Blue Crush",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 105,
+    "budget_usd": 30000000,
+    "revenue_usd": 51327420,
+    "audience_rating": 5.5,
+    "sort_title": "Blue Crush",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_026",
+    "title": "Bound",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 112,
+    "budget_usd": 4500000,
+    "revenue_usd": 6300000,
+    "audience_rating": 7.4,
+    "sort_title": "Bound",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_027",
+    "title": "Boys and Girls",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 94,
+    "budget_usd": 16000000,
+    "revenue_usd": 21799652,
+    "audience_rating": 4.9,
+    "sort_title": "Boys and Girls",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_028",
+    "title": "Boys Don't Cry",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 124,
+    "budget_usd": 2000000,
+    "revenue_usd": 20741000,
+    "audience_rating": 7.6,
+    "sort_title": "Boys Don't Cry",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_029",
+    "title": "Braindead",
+    "release_year": 1993,
+    "decade": "1990s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 97,
+    "budget_usd": 3000000,
+    "revenue_usd": 242623,
+    "audience_rating": 7.6,
+    "sort_title": "Braindead",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_030",
+    "title": "Bright Lights, Big City",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 130,
+    "budget_usd": 25000000,
+    "revenue_usd": 16118077,
+    "audience_rating": 6.8,
+    "sort_title": "Bright Lights, Big City",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_031",
+    "title": "Butch Cassidy and the Sundance Kid",
+    "release_year": 1969,
+    "decade": "1960s",
+    "genre": "Western",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 118,
+    "budget_usd": 6000000,
+    "revenue_usd": 102308900,
+    "audience_rating": 8.2,
+    "sort_title": "Butch Cassidy and the Sundance Kid",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_032",
+    "title": "C.H.U.D.",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": "Fantasy",
+    "runtime_min": 78,
+    "budget_usd": 1250000,
+    "revenue_usd": 4700000,
+    "audience_rating": 5,
+    "sort_title": "C.H.U.D.",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_033",
+    "title": "Caddyshack",
+    "release_year": 1980,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 97,
+    "budget_usd": 6000000,
+    "revenue_usd": 39846344,
+    "audience_rating": 7.3,
+    "sort_title": "Caddyshack",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_034",
+    "title": "Cama adentro",
+    "release_year": 2007,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 119,
+    "budget_usd": 800000,
+    "revenue_usd": 200433,
+    "audience_rating": 7.2,
+    "sort_title": "Cama adentro",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_035",
+    "title": "Capote",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 131,
+    "budget_usd": 7000000,
+    "revenue_usd": 46309352,
+    "audience_rating": 7.6,
+    "sort_title": "Capote",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_036",
+    "title": "Central do Brasil",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 103,
+    "budget_usd": 2900000,
+    "revenue_usd": 17006158,
+    "audience_rating": 8,
+    "sort_title": "Central do Brasil",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_037",
+    "title": "Chariots of Fire",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 110,
+    "budget_usd": 5500000,
+    "revenue_usd": 57159946,
+    "audience_rating": 7.3,
+    "sort_title": "Chariots of Fire",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_038",
+    "title": "Cleopatra",
+    "release_year": 1963,
+    "decade": "1960s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 140,
+    "budget_usd": 36000000,
+    "revenue_usd": 62000000,
+    "audience_rating": 6.8,
+    "sort_title": "Cleopatra",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_039",
+    "title": "Close Encounters of the Third Kind",
+    "release_year": 1977,
+    "decade": "1970s",
+    "genre": "Adventure",
+    "creative_type": "Science Fiction",
+    "runtime_min": 96,
+    "budget_usd": 20000000,
+    "revenue_usd": 337700000,
+    "audience_rating": 7.8,
+    "sort_title": "Close Encounters of the Third Kind",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_040",
+    "title": "Conan the Destroyer",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Fantasy",
+    "runtime_min": 130,
+    "budget_usd": 18000000,
+    "revenue_usd": 26400000,
+    "audience_rating": 5.4,
+    "sort_title": "Conan the Destroyer",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_041",
+    "title": "Congo",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 133,
+    "budget_usd": 50000000,
+    "revenue_usd": 152022333,
+    "audience_rating": 4.6,
+    "sort_title": "Congo",
+    "title_initial": "C",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_042",
+    "title": "Coraline",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 100,
+    "budget_usd": 60000000,
+    "revenue_usd": 124062750,
+    "audience_rating": 7.8,
+    "sort_title": "Coraline",
+    "title_initial": "C",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_043",
+    "title": "Courage Under Fire",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 115,
+    "budget_usd": 46000000,
+    "revenue_usd": 100833145,
+    "audience_rating": 6.6,
+    "sort_title": "Courage Under Fire",
+    "title_initial": "C",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_044",
+    "title": "Dawn of the Dead",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 130,
+    "budget_usd": 1500000,
+    "revenue_usd": 55000000,
+    "audience_rating": 7.4,
+    "sort_title": "Dawn of the Dead",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_045",
+    "title": "Detroit Rock City",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 96,
+    "budget_usd": 16000000,
+    "revenue_usd": 4217115,
+    "audience_rating": 6.4,
+    "sort_title": "Detroit Rock City",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_046",
+    "title": "Deuce Bigalow: Male Gigolo",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 88,
+    "budget_usd": 18000000,
+    "revenue_usd": 92935067,
+    "audience_rating": 5.6,
+    "sort_title": "Deuce Bigalow: Male Gigolo",
+    "title_initial": "D",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_047",
+    "title": "Die Hard",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 113,
+    "budget_usd": 28000000,
+    "revenue_usd": 139109346,
+    "audience_rating": 7.3,
+    "sort_title": "Die Hard",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_048",
+    "title": "Dil Jo Bhi Kahey...",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 115,
+    "budget_usd": 1600000,
+    "revenue_usd": 129319,
+    "audience_rating": 5,
+    "sort_title": "Dil Jo Bhi Kahey...",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_049",
+    "title": "Doctor Zhivago",
+    "release_year": 1965,
+    "decade": "1960s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 108,
+    "budget_usd": 11000000,
+    "revenue_usd": 111721000,
+    "audience_rating": 8,
+    "sort_title": "Doctor Zhivago",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_050",
+    "title": "Dolphin",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Documentary",
+    "creative_type": "Factual",
+    "runtime_min": 100,
+    "budget_usd": 170000,
+    "revenue_usd": 14000,
+    "audience_rating": 5.8,
+    "sort_title": "Dolphin",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_051",
+    "title": "Doomsday",
+    "release_year": 2008,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 100,
+    "budget_usd": 33000000,
+    "revenue_usd": 21621188,
+    "audience_rating": 6,
+    "sort_title": "Doomsday",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_052",
+    "title": "Doug's 1st Movie",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 77,
+    "budget_usd": 5000000,
+    "revenue_usd": 19421271,
+    "audience_rating": 4.8,
+    "sort_title": "Doug's 1st Movie",
+    "title_initial": "D",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_053",
+    "title": "DÈj‡ Vu",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Science Fiction",
+    "runtime_min": 126,
+    "budget_usd": 80000000,
+    "revenue_usd": 181038616,
+    "audience_rating": 7,
+    "sort_title": "DÈj‡ Vu",
+    "title_initial": "D",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_054",
+    "title": "Emma",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 111,
+    "budget_usd": 5900000,
+    "revenue_usd": 37831658,
+    "audience_rating": 6.8,
+    "sort_title": "Emma",
+    "title_initial": "E",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_055",
+    "title": "Escape from L.A.",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 101,
+    "budget_usd": 50000000,
+    "revenue_usd": 25426861,
+    "audience_rating": 5.3,
+    "sort_title": "Escape from L.A.",
+    "title_initial": "E",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_056",
+    "title": "Eye for an Eye",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 101,
+    "budget_usd": 20000000,
+    "revenue_usd": 26792700,
+    "audience_rating": 5.7,
+    "sort_title": "Eye for an Eye",
+    "title_initial": "E",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_057",
+    "title": "Fantastic Four",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Super Hero",
+    "runtime_min": 123,
+    "budget_usd": 87500000,
+    "revenue_usd": 330579719,
+    "audience_rating": 5.7,
+    "sort_title": "Fantastic Four",
+    "title_initial": "F",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_058",
+    "title": "Far From Heaven",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 128,
+    "budget_usd": 13500000,
+    "revenue_usd": 29027914,
+    "audience_rating": 7.5,
+    "sort_title": "Far From Heaven",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_059",
+    "title": "Fiddler on the Roof",
+    "release_year": 1971,
+    "decade": "1970s",
+    "genre": "Musical",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 97,
+    "budget_usd": 9000000,
+    "revenue_usd": 80500000,
+    "audience_rating": 7.7,
+    "sort_title": "Fiddler on the Roof",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_060",
+    "title": "Force 10 from Navarone",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 123,
+    "budget_usd": 5000000,
+    "revenue_usd": 7100000,
+    "audience_rating": 6,
+    "sort_title": "Force 10 from Navarone",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_061",
+    "title": "Friday the 13th Part 2",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 89,
+    "budget_usd": 1250000,
+    "revenue_usd": 21722776,
+    "audience_rating": 5.5,
+    "sort_title": "Friday the 13th Part 2",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_062",
+    "title": "Friday the 13th Part VII: The New Blood",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": "Fantasy",
+    "runtime_min": 89,
+    "budget_usd": 2800000,
+    "revenue_usd": 19170001,
+    "audience_rating": 4.6,
+    "sort_title": "Friday the 13th Part VII: The New Blood",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_063",
+    "title": "From Justin to Kelly",
+    "release_year": 2003,
+    "decade": "2000s",
+    "genre": "Musical",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 108,
+    "budget_usd": 12000000,
+    "revenue_usd": 4922166,
+    "audience_rating": 1.6,
+    "sort_title": "From Justin to Kelly",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_064",
+    "title": "From Russia With Love",
+    "release_year": 1964,
+    "decade": "1960s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 112,
+    "budget_usd": 2000000,
+    "revenue_usd": 78900000,
+    "audience_rating": 7.5,
+    "sort_title": "From Russia With Love",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_065",
+    "title": "Full Frontal",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 104,
+    "budget_usd": 2000000,
+    "revenue_usd": 3438804,
+    "audience_rating": 4.8,
+    "sort_title": "Full Frontal",
+    "title_initial": "F",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_066",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 118,
+    "budget_usd": 175000000,
+    "revenue_usd": 302469019,
+    "audience_rating": 5.8,
+    "sort_title": "G.I. Joe: The Rise of Cobra",
+    "title_initial": "G",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_067",
+    "title": "G.I.Jane",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 124,
+    "budget_usd": 50000000,
+    "revenue_usd": 48169156,
+    "audience_rating": 5.5,
+    "sort_title": "G.I.Jane",
+    "title_initial": "G",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_068",
+    "title": "Ghost World",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 79,
+    "budget_usd": 5500000,
+    "revenue_usd": 8764007,
+    "audience_rating": 7.7,
+    "sort_title": "Ghost World",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_069",
+    "title": "Ghostbusters",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Science Fiction",
+    "runtime_min": 80,
+    "budget_usd": 30000000,
+    "revenue_usd": 291632124,
+    "audience_rating": 6.8,
+    "sort_title": "Ghostbusters",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_070",
+    "title": "Girl 6",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 96,
+    "budget_usd": 12000000,
+    "revenue_usd": 4880941,
+    "audience_rating": 4.9,
+    "sort_title": "Girl 6",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_071",
+    "title": "Glory",
+    "release_year": 1989,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Dramatization",
+    "runtime_min": 102,
+    "budget_usd": 18000000,
+    "revenue_usd": 26593580,
+    "audience_rating": 8,
+    "sort_title": "Glory",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_072",
+    "title": "Goldfinger",
+    "release_year": 1964,
+    "decade": "1960s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 103,
+    "budget_usd": 3000000,
+    "revenue_usd": 124900000,
+    "audience_rating": 7.9,
+    "sort_title": "Goldfinger",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_073",
+    "title": "Good Morning Vietnam",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 94,
+    "budget_usd": 13000000,
+    "revenue_usd": 123922370,
+    "audience_rating": 7.2,
+    "sort_title": "Good Morning Vietnam",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_074",
+    "title": "Good Will Hunting",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 126,
+    "budget_usd": 10000000,
+    "revenue_usd": 225933435,
+    "audience_rating": 8.1,
+    "sort_title": "Good Will Hunting",
+    "title_initial": "G",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_075",
+    "title": "Graduation Day",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Thriller/Suspense",
+    "creative_type": null,
+    "runtime_min": 119,
+    "budget_usd": 250000,
+    "revenue_usd": 23894000,
+    "audience_rating": 3,
+    "sort_title": "Graduation Day",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_076",
+    "title": "Grease",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Musical",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 90,
+    "budget_usd": 6000000,
+    "revenue_usd": 206005260,
+    "audience_rating": 7,
+    "sort_title": "Grease",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_077",
+    "title": "Gremlins",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Fantasy",
+    "runtime_min": 81,
+    "budget_usd": 11000000,
+    "revenue_usd": 148168459,
+    "audience_rating": 7,
+    "sort_title": "Gremlins",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_078",
+    "title": "Halloween",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 97,
+    "budget_usd": 325000,
+    "revenue_usd": 70000000,
+    "audience_rating": 6,
+    "sort_title": "Halloween",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_079",
+    "title": "Hang 'em High",
+    "release_year": 1968,
+    "decade": "1960s",
+    "genre": "Western",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 112,
+    "budget_usd": 1800000,
+    "revenue_usd": 6800000,
+    "audience_rating": 6.9,
+    "sort_title": "Hang 'em High",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_080",
+    "title": "Happy Feet",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 108,
+    "budget_usd": 85000000,
+    "revenue_usd": 385000317,
+    "audience_rating": 6.7,
+    "sort_title": "Happy Feet",
+    "title_initial": "H",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_081",
+    "title": "Hellraiser",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": "Fantasy",
+    "runtime_min": 95,
+    "budget_usd": 1000000,
+    "revenue_usd": 14564000,
+    "audience_rating": 7,
+    "sort_title": "Hellraiser",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_082",
+    "title": "Here on Earth",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 141,
+    "budget_usd": 15000000,
+    "revenue_usd": 10845127,
+    "audience_rating": 4.6,
+    "sort_title": "Here on Earth",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_083",
+    "title": "Home Alone",
+    "release_year": 1990,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 78,
+    "budget_usd": 15000000,
+    "revenue_usd": 476684675,
+    "audience_rating": 7,
+    "sort_title": "Home Alone",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_084",
+    "title": "Hustle & Flow",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 110,
+    "budget_usd": 2800000,
+    "revenue_usd": 23563727,
+    "audience_rating": 7.5,
+    "sort_title": "Hustle & Flow",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_085",
+    "title": "In the Company of Men",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 130,
+    "budget_usd": 25000,
+    "revenue_usd": 2883661,
+    "audience_rating": 7.2,
+    "sort_title": "In the Company of Men",
+    "title_initial": "I",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_086",
+    "title": "Into the Blue",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 109,
+    "budget_usd": 50000000,
+    "revenue_usd": 41982227,
+    "audience_rating": 5.7,
+    "sort_title": "Into the Blue",
+    "title_initial": "I",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_087",
+    "title": "Isn't She Great",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 100,
+    "budget_usd": 36000000,
+    "revenue_usd": 2954405,
+    "audience_rating": 4.9,
+    "sort_title": "Isn't She Great",
+    "title_initial": "I",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_088",
+    "title": "Jackass: The Movie",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 92,
+    "budget_usd": 5000000,
+    "revenue_usd": 75466905,
+    "audience_rating": 6.3,
+    "sort_title": "Jackass: The Movie",
+    "title_initial": "J",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_089",
+    "title": "Jaws 2",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 134,
+    "budget_usd": 20000000,
+    "revenue_usd": 208900376,
+    "audience_rating": 5.6,
+    "sort_title": "Jaws 2",
+    "title_initial": "J",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_090",
+    "title": "Jay and Silent Bob Strike Back",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 104,
+    "budget_usd": 22000000,
+    "revenue_usd": 33762400,
+    "audience_rating": 6.8,
+    "sort_title": "Jay and Silent Bob Strike Back",
+    "title_initial": "J",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_091",
+    "title": "Knocked Up",
+    "release_year": 2007,
+    "decade": "2000s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 132,
+    "budget_usd": 27500000,
+    "revenue_usd": 218994109,
+    "audience_rating": 7.5,
+    "sort_title": "Knocked Up",
+    "title_initial": "K",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_092",
+    "title": "Ladyhawke",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Fantasy",
+    "runtime_min": 103,
+    "budget_usd": 20000000,
+    "revenue_usd": 18400000,
+    "audience_rating": 6.7,
+    "sort_title": "Ladyhawke",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_093",
+    "title": "Legally Blonde",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 97,
+    "budget_usd": 18000000,
+    "revenue_usd": 141743426,
+    "audience_rating": 6.2,
+    "sort_title": "Legally Blonde",
+    "title_initial": "L",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_094",
+    "title": "Les BronzÈs 3: amis pour la vie",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 75,
+    "budget_usd": 42000000,
+    "revenue_usd": 83833602,
+    "audience_rating": 4.4,
+    "sort_title": "Les BronzÈs 3: amis pour la vie",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_095",
+    "title": "Lethal Weapon",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 102,
+    "budget_usd": 15000000,
+    "revenue_usd": 120192350,
+    "audience_rating": 7.6,
+    "sort_title": "Lethal Weapon",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_096",
+    "title": "Liar Liar",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 87,
+    "budget_usd": 45000000,
+    "revenue_usd": 302710615,
+    "audience_rating": 6.7,
+    "sort_title": "Liar Liar",
+    "title_initial": "L",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_097",
+    "title": "Little Shop of Horrors",
+    "release_year": 1986,
+    "decade": "1980s",
+    "genre": "Musical",
+    "creative_type": "Fantasy",
+    "runtime_min": 102,
+    "budget_usd": 30000000,
+    "revenue_usd": 38747385,
+    "audience_rating": 6.6,
+    "sort_title": "Little Shop of Horrors",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_098",
+    "title": "Live and Let Die",
+    "release_year": 1973,
+    "decade": "1970s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 90,
+    "budget_usd": 7000000,
+    "revenue_usd": 161800000,
+    "audience_rating": 6.8,
+    "sort_title": "Live and Let Die",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_099",
+    "title": "Lost In Space",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Science Fiction",
+    "runtime_min": 131,
+    "budget_usd": 80000000,
+    "revenue_usd": 136117629,
+    "audience_rating": 4.8,
+    "sort_title": "Lost In Space",
+    "title_initial": "L",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_100",
+    "title": "Love Lisa",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 129,
+    "budget_usd": 1000000,
+    "revenue_usd": 211724,
+    "audience_rating": 6.8,
+    "sort_title": "Love Lisa",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_101",
+    "title": "Lucky Numbers",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 105,
+    "budget_usd": 65000000,
+    "revenue_usd": 10014234,
+    "audience_rating": 4.9,
+    "sort_title": "Lucky Numbers",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_102",
+    "title": "Mad Max",
+    "release_year": 1980,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 131,
+    "budget_usd": 200000,
+    "revenue_usd": 99750000,
+    "audience_rating": 6.9,
+    "sort_title": "Mad Max",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_103",
+    "title": "Mallrats",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 77,
+    "budget_usd": 6100000,
+    "revenue_usd": 2108367,
+    "audience_rating": 7.1,
+    "sort_title": "Mallrats",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_104",
+    "title": "Mary Poppins",
+    "release_year": 1964,
+    "decade": "1960s",
+    "genre": "Musical",
+    "creative_type": null,
+    "runtime_min": 97,
+    "budget_usd": 6000000,
+    "revenue_usd": 102300000,
+    "audience_rating": 7.7,
+    "sort_title": "Mary Poppins",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_105",
+    "title": "Mean Creek",
+    "release_year": 2004,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 138,
+    "budget_usd": 500000,
+    "revenue_usd": 967749,
+    "audience_rating": 7.3,
+    "sort_title": "Mean Creek",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_106",
+    "title": "Meet Joe Black",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Fantasy",
+    "runtime_min": 154,
+    "budget_usd": 85000000,
+    "revenue_usd": 44650003,
+    "audience_rating": 6.9,
+    "sort_title": "Meet Joe Black",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_107",
+    "title": "Meet the Fockers",
+    "release_year": 2004,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 115,
+    "budget_usd": 60000000,
+    "revenue_usd": 516567575,
+    "audience_rating": 6.4,
+    "sort_title": "Meet the Fockers",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_108",
+    "title": "Men in Black 2",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 88,
+    "budget_usd": 140000000,
+    "revenue_usd": 441818803,
+    "audience_rating": 7.4,
+    "sort_title": "Men in Black 2",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_109",
+    "title": "Message in a Bottle",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 132,
+    "budget_usd": 30000000,
+    "revenue_usd": 52880016,
+    "audience_rating": 5.6,
+    "sort_title": "Message in a Bottle",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_110",
+    "title": "Modern Problems",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 113,
+    "budget_usd": 8000000,
+    "revenue_usd": 24474312,
+    "audience_rating": 4.5,
+    "sort_title": "Modern Problems",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_111",
+    "title": "Moonraker",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 122,
+    "budget_usd": 31000000,
+    "revenue_usd": 210300000,
+    "audience_rating": 6.1,
+    "sort_title": "Moonraker",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_112",
+    "title": "Mystic Pizza",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 84,
+    "budget_usd": 6000000,
+    "revenue_usd": 12793213,
+    "audience_rating": 5.9,
+    "sort_title": "Mystic Pizza",
+    "title_initial": "M",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_113",
+    "title": "Naked Gun 33 1/3: The Final Insult",
+    "release_year": 1994,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 98,
+    "budget_usd": 30000000,
+    "revenue_usd": 51041856,
+    "audience_rating": 6.1,
+    "sort_title": "Naked Gun 33 1/3: The Final Insult",
+    "title_initial": "N",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_114",
+    "title": "New York, New York",
+    "release_year": 1977,
+    "decade": "1970s",
+    "genre": "Musical",
+    "creative_type": null,
+    "runtime_min": 110,
+    "budget_usd": 14000000,
+    "revenue_usd": 13800000,
+    "audience_rating": 6.7,
+    "sort_title": "New York, New York",
+    "title_initial": "N",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_115",
+    "title": "Nochnoy dozor",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Fantasy",
+    "runtime_min": 91,
+    "budget_usd": 4200000,
+    "revenue_usd": 33923550,
+    "audience_rating": 6.5,
+    "sort_title": "Nochnoy dozor",
+    "title_initial": "N",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_116",
+    "title": "Nutty Professor II: The Klumps",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 107,
+    "budget_usd": 84000000,
+    "revenue_usd": 161600000,
+    "audience_rating": 4.3,
+    "sort_title": "Nutty Professor II: The Klumps",
+    "title_initial": "N",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_117",
+    "title": "Office Space",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Black Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 119,
+    "budget_usd": 10000000,
+    "revenue_usd": 12827813,
+    "audience_rating": 7.9,
+    "sort_title": "Office Space",
+    "title_initial": "O",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_118",
+    "title": "On Her Majesty's Secret Service",
+    "release_year": 1969,
+    "decade": "1960s",
+    "genre": "Action",
+    "creative_type": null,
+    "runtime_min": 128,
+    "budget_usd": 8000000,
+    "revenue_usd": 82000000,
+    "audience_rating": 6.9,
+    "sort_title": "On Her Majesty's Secret Service",
+    "title_initial": "O",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_119",
+    "title": "Once Upon a Time in Mexico",
+    "release_year": 2003,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 102,
+    "budget_usd": 29000000,
+    "revenue_usd": 98156459,
+    "audience_rating": 6.2,
+    "sort_title": "Once Upon a Time in Mexico",
+    "title_initial": "O",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_120",
+    "title": "Osmosis Jones",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Kids Fiction",
+    "runtime_min": 98,
+    "budget_usd": 70000000,
+    "revenue_usd": 13596911,
+    "audience_rating": 6,
+    "sort_title": "Osmosis Jones",
+    "title_initial": "O",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_121",
+    "title": "Out of Time",
+    "release_year": 2003,
+    "decade": "2000s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 105,
+    "budget_usd": 50000000,
+    "revenue_usd": 55489826,
+    "audience_rating": 4.9,
+    "sort_title": "Out of Time",
+    "title_initial": "O",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_122",
+    "title": "Penitentiary",
+    "release_year": 1980,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 109,
+    "budget_usd": 100000,
+    "revenue_usd": 287000,
+    "audience_rating": 5.5,
+    "sort_title": "Penitentiary",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_123",
+    "title": "Police Academy",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 127,
+    "budget_usd": 4500000,
+    "revenue_usd": 81198894,
+    "audience_rating": 6.3,
+    "sort_title": "Police Academy",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_124",
+    "title": "Poltergeist III",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": "Fantasy",
+    "runtime_min": 145,
+    "budget_usd": 9500000,
+    "revenue_usd": 14114000,
+    "audience_rating": 3.8,
+    "sort_title": "Poltergeist III",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_125",
+    "title": "Porky's",
+    "release_year": 1982,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 83,
+    "budget_usd": 4000000,
+    "revenue_usd": 109492484,
+    "audience_rating": 5.8,
+    "sort_title": "Porky's",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_126",
+    "title": "Precious (Based on the Novel Push by Sapphire)",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 109,
+    "budget_usd": 10000000,
+    "revenue_usd": 63471431,
+    "audience_rating": 7.5,
+    "sort_title": "Precious (Based on the Novel Push by Sapphire)",
+    "title_initial": "P",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_127",
+    "title": "Prison",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 96,
+    "budget_usd": 4000000,
+    "revenue_usd": 354704,
+    "audience_rating": 5.8,
+    "sort_title": "Prison",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_128",
+    "title": "Radio Days",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 92,
+    "budget_usd": 16000000,
+    "revenue_usd": 14792779,
+    "audience_rating": 7.5,
+    "sort_title": "Radio Days",
+    "title_initial": "R",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_129",
+    "title": "Raiders of the Lost Ark",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Adventure",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 140,
+    "budget_usd": 20000000,
+    "revenue_usd": 386800358,
+    "audience_rating": 8.7,
+    "sort_title": "Raiders of the Lost Ark",
+    "title_initial": "R",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_130",
+    "title": "Rain Man",
+    "release_year": 1988,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 98,
+    "budget_usd": 25000000,
+    "revenue_usd": 412800000,
+    "audience_rating": 8,
+    "sort_title": "Rain Man",
+    "title_initial": "R",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_131",
+    "title": "Rambo: First Blood Part II",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 88,
+    "budget_usd": 44000000,
+    "revenue_usd": 300400000,
+    "audience_rating": 5.8,
+    "sort_title": "Rambo: First Blood Part II",
+    "title_initial": "R",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_132",
+    "title": "Random Hearts",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 133,
+    "budget_usd": 64000000,
+    "revenue_usd": 63200000,
+    "audience_rating": 4.8,
+    "sort_title": "Random Hearts",
+    "title_initial": "R",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_133",
+    "title": "Sabrina",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 121,
+    "budget_usd": 58000000,
+    "revenue_usd": 87100000,
+    "audience_rating": 6,
+    "sort_title": "Sabrina",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_134",
+    "title": "Scary Movie 2",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 82,
+    "budget_usd": 45000000,
+    "revenue_usd": 141189101,
+    "audience_rating": 4.7,
+    "sort_title": "Scary Movie 2",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_135",
+    "title": "Sex Drive",
+    "release_year": 2008,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 108,
+    "budget_usd": 19000000,
+    "revenue_usd": 10412485,
+    "audience_rating": 6.8,
+    "sort_title": "Sex Drive",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_136",
+    "title": "Shadow Conspiracy",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 100,
+    "budget_usd": 45000000,
+    "revenue_usd": 2154540,
+    "audience_rating": 4.7,
+    "sort_title": "Shadow Conspiracy",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_137",
+    "title": "Shakespeare in Love",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 122,
+    "budget_usd": 26000000,
+    "revenue_usd": 279500000,
+    "audience_rating": 7.4,
+    "sort_title": "Shakespeare in Love",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_138",
+    "title": "Silent Movie",
+    "release_year": 1976,
+    "decade": "1970s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 118,
+    "budget_usd": 4400000,
+    "revenue_usd": 36145695,
+    "audience_rating": 6.4,
+    "sort_title": "Silent Movie",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_139",
+    "title": "Slackers",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 97,
+    "budget_usd": 11000000,
+    "revenue_usd": 4814244,
+    "audience_rating": 4.9,
+    "sort_title": "Slackers",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_140",
+    "title": "Sleeper",
+    "release_year": 1973,
+    "decade": "1970s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 104,
+    "budget_usd": 2000000,
+    "revenue_usd": 18344729,
+    "audience_rating": 7.3,
+    "sort_title": "Sleeper",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_141",
+    "title": "Sleepers",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 105,
+    "budget_usd": 44000000,
+    "revenue_usd": 165600852,
+    "audience_rating": 7.3,
+    "sort_title": "Sleepers",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_142",
+    "title": "Sphinx",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 100,
+    "budget_usd": 10000000,
+    "revenue_usd": 11400000,
+    "audience_rating": 4.9,
+    "sort_title": "Sphinx",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_143",
+    "title": "Spirited Away",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Fantasy",
+    "runtime_min": 75,
+    "budget_usd": 19000000,
+    "revenue_usd": 274949886,
+    "audience_rating": 8.4,
+    "sort_title": "Spirited Away",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min",
+      "audience_rating"
+    ]
+  },
+  {
+    "id": "movie_144",
+    "title": "Star Trek V: The Final Frontier",
+    "release_year": 1989,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 85,
+    "budget_usd": 30000000,
+    "revenue_usd": 70200000,
+    "audience_rating": 5,
+    "sort_title": "Star Trek V: The Final Frontier",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_145",
+    "title": "Star Trek: The Motion Picture",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Adventure",
+    "creative_type": "Science Fiction",
+    "runtime_min": 122,
+    "budget_usd": 35000000,
+    "revenue_usd": 139000000,
+    "audience_rating": 6.2,
+    "sort_title": "Star Trek: The Motion Picture",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_146",
+    "title": "Stick It",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 103,
+    "budget_usd": 20000000,
+    "revenue_usd": 30399714,
+    "audience_rating": 5.9,
+    "sort_title": "Stick It",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_147",
+    "title": "Stranger Than Fiction",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 112,
+    "budget_usd": 30000000,
+    "revenue_usd": 45235190,
+    "audience_rating": 7.8,
+    "sort_title": "Stranger Than Fiction",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_148",
+    "title": "Subway",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 149,
+    "budget_usd": 2000000,
+    "revenue_usd": 1663296,
+    "audience_rating": 6.2,
+    "sort_title": "Subway",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_149",
+    "title": "Super Mario Bros.",
+    "release_year": 1993,
+    "decade": "1990s",
+    "genre": "Action",
+    "creative_type": "Fantasy",
+    "runtime_min": 121,
+    "budget_usd": 42000000,
+    "revenue_usd": 20844907,
+    "audience_rating": 3.8,
+    "sort_title": "Super Mario Bros.",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_150",
+    "title": "Superman",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Adventure",
+    "creative_type": "Super Hero",
+    "runtime_min": 120,
+    "budget_usd": 55000000,
+    "revenue_usd": 300200000,
+    "audience_rating": 4.9,
+    "sort_title": "Superman",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_151",
+    "title": "Superman II",
+    "release_year": 1981,
+    "decade": "1980s",
+    "genre": "Adventure",
+    "creative_type": "Super Hero",
+    "runtime_min": 94,
+    "budget_usd": 50000000,
+    "revenue_usd": 108185706,
+    "audience_rating": 6.7,
+    "sort_title": "Superman II",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_152",
+    "title": "Surrogates",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 104,
+    "budget_usd": 80000000,
+    "revenue_usd": 119668350,
+    "audience_rating": 6.3,
+    "sort_title": "Surrogates",
+    "title_initial": "S",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_153",
+    "title": "The 13th Warrior",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Action",
+    "creative_type": "Fantasy",
+    "runtime_min": 103,
+    "budget_usd": 125000000,
+    "revenue_usd": 61698899,
+    "audience_rating": 6.3,
+    "sort_title": "13th Warrior",
+    "title_initial": "1",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_154",
+    "title": "The 40 Year-old Virgin",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 111,
+    "budget_usd": 26000000,
+    "revenue_usd": 177339049,
+    "audience_rating": 7.5,
+    "sort_title": "40 Year-old Virgin",
+    "title_initial": "4",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_155",
+    "title": "The Adventures of Pinocchio",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Fantasy",
+    "runtime_min": 94,
+    "budget_usd": 25000000,
+    "revenue_usd": 36682170,
+    "audience_rating": 5.3,
+    "sort_title": "Adventures of Pinocchio",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_156",
+    "title": "The Age of Innocence",
+    "release_year": 1993,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 147,
+    "budget_usd": 34000000,
+    "revenue_usd": 32014993,
+    "audience_rating": 7.1,
+    "sort_title": "Age of Innocence",
+    "title_initial": "A",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_157",
+    "title": "The Apostle",
+    "release_year": 1997,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 148,
+    "budget_usd": 5000000,
+    "revenue_usd": 21277770,
+    "audience_rating": 7.1,
+    "sort_title": "Apostle",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_158",
+    "title": "The Avengers",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 91,
+    "budget_usd": 60000000,
+    "revenue_usd": 48585416,
+    "audience_rating": 3.4,
+    "sort_title": "Avengers",
+    "title_initial": "A",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_159",
+    "title": "The Bachelor",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 101,
+    "budget_usd": 21000000,
+    "revenue_usd": 36882378,
+    "audience_rating": 4.8,
+    "sort_title": "Bachelor",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_160",
+    "title": "The Ballad of Cable Hogue",
+    "release_year": 1970,
+    "decade": "1970s",
+    "genre": "Western",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 106,
+    "budget_usd": 3716946,
+    "revenue_usd": 5000000,
+    "audience_rating": 7.3,
+    "sort_title": "Ballad of Cable Hogue",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_161",
+    "title": "The Black Dahlia",
+    "release_year": 2006,
+    "decade": "2000s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 121,
+    "budget_usd": 60000000,
+    "revenue_usd": 46672813,
+    "audience_rating": 5.6,
+    "sort_title": "Black Dahlia",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_162",
+    "title": "The Borrowers",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Fantasy",
+    "runtime_min": 83,
+    "budget_usd": 29000000,
+    "revenue_usd": 54045832,
+    "audience_rating": 5.6,
+    "sort_title": "Borrowers",
+    "title_initial": "B",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_163",
+    "title": "The Box",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Fantasy",
+    "runtime_min": 119,
+    "budget_usd": 25000000,
+    "revenue_usd": 26341896,
+    "audience_rating": 6.8,
+    "sort_title": "Box",
+    "title_initial": "B",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_164",
+    "title": "The Chronicles of Riddick",
+    "release_year": 2004,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Science Fiction",
+    "runtime_min": 119,
+    "budget_usd": 120000000,
+    "revenue_usd": 107212751,
+    "audience_rating": 6.4,
+    "sort_title": "Chronicles of Riddick",
+    "title_initial": "C",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_165",
+    "title": "The Deer Hunter",
+    "release_year": 1978,
+    "decade": "1970s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 125,
+    "budget_usd": 15000000,
+    "revenue_usd": 50000000,
+    "audience_rating": 8.2,
+    "sort_title": "Deer Hunter",
+    "title_initial": "D",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_166",
+    "title": "The Evil Dead",
+    "release_year": 1983,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 114,
+    "budget_usd": 375000,
+    "revenue_usd": 29400000,
+    "audience_rating": 7.6,
+    "sort_title": "Evil Dead",
+    "title_initial": "E",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_167",
+    "title": "The Exorcist",
+    "release_year": 1973,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 87,
+    "budget_usd": 12000000,
+    "revenue_usd": 402500000,
+    "audience_rating": 8.1,
+    "sort_title": "Exorcist",
+    "title_initial": "E",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_168",
+    "title": "The Gambler",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 122,
+    "budget_usd": 3000000,
+    "revenue_usd": 101773,
+    "audience_rating": 6.1,
+    "sort_title": "Gambler",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_169",
+    "title": "The Greatest Story Ever Told",
+    "release_year": 1965,
+    "decade": "1960s",
+    "genre": "Drama",
+    "creative_type": null,
+    "runtime_min": 111,
+    "budget_usd": 20000000,
+    "revenue_usd": 15473333,
+    "audience_rating": 6.3,
+    "sort_title": "Greatest Story Ever Told",
+    "title_initial": "G",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_170",
+    "title": "The Helix...  Loaded",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 95,
+    "budget_usd": 1000000,
+    "revenue_usd": 3700,
+    "audience_rating": 1.5,
+    "sort_title": "Helix...  Loaded",
+    "title_initial": "H",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_171",
+    "title": "The Hunted",
+    "release_year": 2003,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 94,
+    "budget_usd": 55000000,
+    "revenue_usd": 45016494,
+    "audience_rating": 5.8,
+    "sort_title": "Hunted",
+    "title_initial": "H",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_172",
+    "title": "The Ice Pirates",
+    "release_year": 1984,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Science Fiction",
+    "runtime_min": 75,
+    "budget_usd": 9000000,
+    "revenue_usd": 13075390,
+    "audience_rating": 5.1,
+    "sort_title": "Ice Pirates",
+    "title_initial": "I",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_173",
+    "title": "The Jungle Book",
+    "release_year": 1994,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 121,
+    "budget_usd": 27000000,
+    "revenue_usd": 44342956,
+    "audience_rating": 5.8,
+    "sort_title": "Jungle Book",
+    "title_initial": "J",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_174",
+    "title": "The Long Riders",
+    "release_year": 1980,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 136,
+    "budget_usd": 10000000,
+    "revenue_usd": 15198912,
+    "audience_rating": 7.1,
+    "sort_title": "Long Riders",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_175",
+    "title": "The Love Letter",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 91,
+    "budget_usd": 15000000,
+    "revenue_usd": 8322608,
+    "audience_rating": 5.1,
+    "sort_title": "Love Letter",
+    "title_initial": "L",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_176",
+    "title": "The Man in the Iron Mask",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Adventure",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 132,
+    "budget_usd": 35000000,
+    "revenue_usd": 56968169,
+    "audience_rating": 7.2,
+    "sort_title": "Man in the Iron Mask",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_177",
+    "title": "The Matrix",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 136,
+    "budget_usd": 65000000,
+    "revenue_usd": 460279930,
+    "audience_rating": 8.7,
+    "sort_title": "Matrix",
+    "title_initial": "M",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_178",
+    "title": "The Net",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Thriller/Suspense",
+    "creative_type": "Science Fiction",
+    "runtime_min": 99,
+    "budget_usd": 22000000,
+    "revenue_usd": 110521733,
+    "audience_rating": 5.6,
+    "sort_title": "Net",
+    "title_initial": "N",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_179",
+    "title": "The Omen",
+    "release_year": 1976,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 109,
+    "budget_usd": 2800000,
+    "revenue_usd": 48570885,
+    "audience_rating": 5.4,
+    "sort_title": "Omen",
+    "title_initial": "O",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_180",
+    "title": "The Others",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Horror",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 104,
+    "budget_usd": 17000000,
+    "revenue_usd": 209947037,
+    "audience_rating": 7.8,
+    "sort_title": "Others",
+    "title_initial": "O",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_181",
+    "title": "The Out-of-Towners",
+    "release_year": 1999,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 92,
+    "budget_usd": 40000000,
+    "revenue_usd": 28544120,
+    "audience_rating": 4.9,
+    "sort_title": "Out-of-Towners",
+    "title_initial": "O",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_182",
+    "title": "The Powerpuff Girls",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Adventure",
+    "creative_type": "Super Hero",
+    "runtime_min": 134,
+    "budget_usd": 25000000,
+    "revenue_usd": 16425701,
+    "audience_rating": 5.9,
+    "sort_title": "Powerpuff Girls",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_183",
+    "title": "The Prisoner of Zenda",
+    "release_year": 1979,
+    "decade": "1970s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 111,
+    "budget_usd": 12500000,
+    "revenue_usd": 7000000,
+    "audience_rating": 4.6,
+    "sort_title": "Prisoner of Zenda",
+    "title_initial": "P",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_184",
+    "title": "The Return of the Living Dead",
+    "release_year": 1985,
+    "decade": "1980s",
+    "genre": "Horror",
+    "creative_type": "Science Fiction",
+    "runtime_min": 103,
+    "budget_usd": 4000000,
+    "revenue_usd": 14237880,
+    "audience_rating": 7.1,
+    "sort_title": "Return of the Living Dead",
+    "title_initial": "R",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_185",
+    "title": "The Salon",
+    "release_year": 2007,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 88,
+    "budget_usd": 1500000,
+    "revenue_usd": 139084,
+    "audience_rating": 3.5,
+    "sort_title": "Salon",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_186",
+    "title": "The Sound of Music",
+    "release_year": 1965,
+    "decade": "1960s",
+    "genre": "Musical",
+    "creative_type": "Historical Fiction",
+    "runtime_min": 119,
+    "budget_usd": 8200000,
+    "revenue_usd": 286214286,
+    "audience_rating": 6.3,
+    "sort_title": "Sound of Music",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_187",
+    "title": "The Swindle",
+    "release_year": 1998,
+    "decade": "1990s",
+    "genre": "Comedy",
+    "creative_type": null,
+    "runtime_min": 99,
+    "budget_usd": 10000000,
+    "revenue_usd": 5045359,
+    "audience_rating": 5.2,
+    "sort_title": "Swindle",
+    "title_initial": "S",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_188",
+    "title": "The Texas Chainsaw Massacre",
+    "release_year": 1974,
+    "decade": "1970s",
+    "genre": "Horror",
+    "creative_type": null,
+    "runtime_min": 138,
+    "budget_usd": 140000,
+    "revenue_usd": 26572439,
+    "audience_rating": 6.1,
+    "sort_title": "Texas Chainsaw Massacre",
+    "title_initial": "T",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_189",
+    "title": "The Verdict",
+    "release_year": 1982,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 100,
+    "budget_usd": 16000000,
+    "revenue_usd": 53977250,
+    "audience_rating": 7.7,
+    "sort_title": "Verdict",
+    "title_initial": "V",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_190",
+    "title": "Tin Cup",
+    "release_year": 1996,
+    "decade": "1990s",
+    "genre": "Romantic Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 105,
+    "budget_usd": 45000000,
+    "revenue_usd": 75854588,
+    "audience_rating": 6.1,
+    "sort_title": "Tin Cup",
+    "title_initial": "T",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_191",
+    "title": "To Die For",
+    "release_year": 1995,
+    "decade": "1990s",
+    "genre": "Black Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 108,
+    "budget_usd": 20000000,
+    "revenue_usd": 27688744,
+    "audience_rating": 6.8,
+    "sort_title": "To Die For",
+    "title_initial": "T",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_192",
+    "title": "Tomcats",
+    "release_year": 2001,
+    "decade": "2000s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 109,
+    "budget_usd": 11000000,
+    "revenue_usd": 13558739,
+    "audience_rating": 4.9,
+    "sort_title": "Tomcats",
+    "title_initial": "T",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_193",
+    "title": "Tron",
+    "release_year": 1982,
+    "decade": "1980s",
+    "genre": "Action",
+    "creative_type": "Science Fiction",
+    "runtime_min": 97,
+    "budget_usd": 17000000,
+    "revenue_usd": 26918576,
+    "audience_rating": 2.9,
+    "sort_title": "Tron",
+    "title_initial": "T",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_194",
+    "title": "Troop Beverly Hills",
+    "release_year": 1989,
+    "decade": "1980s",
+    "genre": "Comedy",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 115,
+    "budget_usd": 18000000,
+    "revenue_usd": 7190505,
+    "audience_rating": 4.7,
+    "sort_title": "Troop Beverly Hills",
+    "title_initial": "T",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_195",
+    "title": "Undisputed",
+    "release_year": 2002,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 122,
+    "budget_usd": 20000000,
+    "revenue_usd": 12398628,
+    "audience_rating": 5.8,
+    "sort_title": "Undisputed",
+    "title_initial": "U",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_196",
+    "title": "Vertical Limit",
+    "release_year": 2000,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 124,
+    "budget_usd": 75000000,
+    "revenue_usd": 213500000,
+    "audience_rating": 5.6,
+    "sort_title": "Vertical Limit",
+    "title_initial": "V",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_197",
+    "title": "Walk the Line",
+    "release_year": 2005,
+    "decade": "2000s",
+    "genre": "Drama",
+    "creative_type": "Dramatization",
+    "runtime_min": 80,
+    "budget_usd": 29000000,
+    "revenue_usd": 184319402,
+    "audience_rating": 7.9,
+    "sort_title": "Walk the Line",
+    "title_initial": "W",
+    "synthetic_fields": []
+  },
+  {
+    "id": "movie_198",
+    "title": "Wall Street",
+    "release_year": 1987,
+    "decade": "1980s",
+    "genre": "Drama",
+    "creative_type": "Contemporary Fiction",
+    "runtime_min": 107,
+    "budget_usd": 15000000,
+    "revenue_usd": 43848100,
+    "audience_rating": 7.3,
+    "sort_title": "Wall Street",
+    "title_initial": "W",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_199",
+    "title": "Watchmen",
+    "release_year": 2009,
+    "decade": "2000s",
+    "genre": "Action",
+    "creative_type": "Super Hero",
+    "runtime_min": 111,
+    "budget_usd": 138000000,
+    "revenue_usd": 184068357,
+    "audience_rating": 7.8,
+    "sort_title": "Watchmen",
+    "title_initial": "W",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  },
+  {
+    "id": "movie_200",
+    "title": "Wyatt Earp",
+    "release_year": 1994,
+    "decade": "1990s",
+    "genre": "Western",
+    "creative_type": "Dramatization",
+    "runtime_min": 100,
+    "budget_usd": 63000000,
+    "revenue_usd": 25052000,
+    "audience_rating": 6.4,
+    "sort_title": "Wyatt Earp",
+    "title_initial": "W",
+    "synthetic_fields": [
+      "runtime_min"
+    ]
+  }
+]
